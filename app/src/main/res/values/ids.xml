@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="toolbar" />
+    <item type="id" name="collapsing_toolbar" />
+    <item type="id" name="movies_grid_fragment" />
+    <item type="id" name="movies_grid" />
+    <item type="id" name="movie_poster_image" />
+</resources>

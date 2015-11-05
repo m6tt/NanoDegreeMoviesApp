@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NanoDegree Movies App</string>
+
+    <string name="discover_movies_load_error">Unable to load Movies</string>
+</resources>
